@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Your Name!
+# 👋 Hello, I'm Ludeyu!
 
-I'm a developer passionate about building amazing things! I work on open-source projects and contribute to the community.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in modern technologies and innovative solutions. Here’s a bit more about me:
 
 ## 🌟 My Skills
 
