@@ -5,23 +5,20 @@ I'm a developer passionate about building amazing things! I work on open-source 
 ## 🌟 My Skills
 
 - **Languages**: Python, JavaScript, Dart, Go
-- **Frameworks**: Flutter, React, Node.js
+- **Frameworks**: Flutter, React, Node.js   
 - **Tools**: Git, Docker, Kubernetes
 
 ## 🏆 Featured Projects
 
-### 1. [Awesome Project](https://github.com/yourusername/awesome-project)
-   - Description of the project and its key features.
-   - Tech stack used.
+### 1. [Beautiful UI APP](https://github.com/ynadtiy19/deyu9887-myfistApp)
 
-### 2. [Another Cool Project](https://github.com/yourusername/another-cool-project)
-   - Description of this project and what makes it special.
+### 2. [backend API](https://github.com/ynadtiy19/mydiumtify)
 
-## 📝 Latest Blog Posts
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
 
 ## 📫 Contact Me
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: 3359499887@qq.com
+- Youtube: [@user-wp8ub6uz3j](https://www.youtube.com/@user-wp8ub6uz3j)
+
+- Tiktok: [@supplyou.drip23](https://www.tiktok.com/@supplyou.drip23)
+
+
